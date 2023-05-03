@@ -14,7 +14,7 @@ MonoCalib value
 
 The boardWidth W is the number of corners along the width direction of the chessboard pattern (e.g. 8 for the provided pattern).
 
-The boardHeight H is the number of corners along the width direction of the chessboard pattern (e.g. 6 for the provided pattern).
+The boardHeight H is the number of corners along the height direction of the chessboard pattern (e.g. 6 for the provided pattern).
 
 The boardSize S specifies the length (in meters) of one side of the squares in the chessboard pattern.
 
